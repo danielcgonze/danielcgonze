@@ -1,19 +1,25 @@
 # Hi there, I'm Dani 
 
+
 #### **`Learning Full Stack Web Development`**
 <details>
-  <summary><h2>😁 About me</h2></summary>
+  <summary><h2> 😁 About me</h2></summary>
   <ul>
     <li>I am taking the first steps as a Junior Web Developer.</li>
     <li>Currently, I am completing my training and working on personal projects.</li>
-    <li>I have a special interest in frontend development and UI/UX (User Interface/User Experience) design. I want to combine my previous knowledge in communication and audiovisual storytelling with the interactive possibilities offered by web development.</li>
+    <li>I have a special interest in frontend development and UI/UX design. I want to combine my previous knowledge in communication and audiovisual storytelling with the interactive possibilities offered by web development.</li>
   </ul>
+  <br>
+  <span>
+  <a href="https://www.linkedin.com/in/danielcgonze/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:danielcgonze@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
 </details>
 
 
 --- 
 
-### 💻 Languages and Tools
+### 💻 Languages and Tools  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -32,7 +38,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Github Stats  
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan328x)](https://github.com/Dan328x/github-readme-stats)
 
