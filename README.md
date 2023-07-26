@@ -1,6 +1,5 @@
 # Hi there, I'm Dani
 
----
 
 **`Learning Full Stack Web Development`**
 
