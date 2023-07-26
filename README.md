@@ -25,8 +25,4 @@ I have a special interest in frontend development and UI/UX (User Interface/User
 
 ### 📊 Stats
 
-![Dan328x's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan238x&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
+[![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan328x)](https://github.com/Dan328x/github-readme-stats)
