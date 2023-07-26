@@ -1,4 +1,4 @@
-# Hi there, I'm Dani 
+# Hi there, I'm Daniel! 👋🏽
 
 
 #### **`Learning Full Stack Web Development`**
