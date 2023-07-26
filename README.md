@@ -3,10 +3,8 @@
 #### **`Learning Full Stack Web Development`**
 <details>
  <summary><h2> 😁 About me</h2></summary>
-I am taking the first steps as a Junior Web Developer. 
- 
-Currently, I am completing my training and working on personal projects. 
-
+I am taking the first steps as a Junior Web Developer. <br>
+Currently, I am completing my training and working on personal projects. <br>
 I have a special interest in frontend development and UI/UX (User Interface/User Experience) design. I want to combine my previous knowledge in communication and audiovisual storytelling with the interactive possibilities offered by web development.
 </details>
 
