@@ -5,6 +5,8 @@
 I am taking the first steps as a Junior Web Developer. Currently, I am completing my training and working on personal projects.
 I have a special interest in frontend development and UI/UX (User Interface/User Experience) design. I want to combine my previous knowledge in communication and audiovisual storytelling with the interactive possibilities offered by web development.
 
+--- 
+
 ### 💻 Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -23,9 +25,13 @@ I have a special interest in frontend development and UI/UX (User Interface/User
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
+--- 
+
 ### 📊 Stats
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan328x)](https://github.com/Dan328x/github-readme-stats)
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan328x&langs_count=5&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/Dan328x/github-readme-stats)
+--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan328x)](https://github.com/Dan328x/github-readme-stats)
 
