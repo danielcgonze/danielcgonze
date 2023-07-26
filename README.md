@@ -1,7 +1,8 @@
 # Hi there, I'm Dani
 
-
 **`Learning Full Stack Web Development`**
+
+---
 
 I am taking the first steps as a Junior Web Developer. 
 Currently, I am completing my training and working on personal projects.
