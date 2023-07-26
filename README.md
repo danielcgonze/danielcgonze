@@ -9,9 +9,6 @@
   I have a special interest in frontend development and UI/UX (User Interface/User Experience) design. I want to combine my previous     
   knowledge in communication and audiovisual storytelling with the interactive possibilities offered by web development.
 </details>
- 
-  
-
 
 --- 
 
