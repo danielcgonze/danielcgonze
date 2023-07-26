@@ -2,6 +2,7 @@
 
 
 #### **`Learning Full Stack Web Development`**
+ 
 <details>
   <summary><h2> 😁 About me</h2></summary>
   <ul>
@@ -15,7 +16,6 @@
     <a href="mailto:danielcgonze@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </span>
 </details>
-
 
 --- 
 
