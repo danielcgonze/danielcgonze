@@ -26,3 +26,6 @@ I have a special interest in frontend development and UI/UX (User Interface/User
 ### 📊 Stats
 
 [![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan328x)](https://github.com/Dan328x/github-readme-stats)
+
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan328x&langs_count=5&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/Dan328x/github-readme-stats)
+
