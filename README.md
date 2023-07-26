@@ -1,6 +1,6 @@
 # Hi there, I'm Dani 😁
 
-**`Learning Full Stack Web Development`**
+## **`Learning Full Stack Web Development`**
 <details>
  <summary><h2> About me</h2></summary>
   I am taking the first steps as a Junior Web Developer. 
