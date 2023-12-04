@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel! 
 
 
-#### **`Junior Full Stack Web Developer`**
+#### **`Junior Web Developer`**
  
 ### About Me
   <ul>
